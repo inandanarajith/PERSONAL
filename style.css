@@ -1,0 +1,79 @@
+.main{
+    border: 2px solid rgb(47, 61, 66);
+    width: 750px;
+    height: 350px;
+    /* background-color: rgb(230, 212, 179); */
+   background: linear-gradient(#FFE4C4,#FFB6C1);
+}
+.container{
+    border: 1px solid brown;
+    width: 350px;
+    height: 35px;
+    background-color: brown;
+}
+h1{
+    font-size: 1.01rem;
+    top: 0%;
+    bottom: 50%;
+   justify-content: center;
+   color: white;
+}
+.box{
+    border: 1px solid rgb(96, 32, 43);
+    width: 550px;
+    height: 200px;
+    position: absolute;
+    top: 40%;
+    transform: translate(-50%,-50%);
+    left:38%;
+    background-color: rgb(242, 240, 215);
+    
+}
+.small1{
+    border: 1px solid pink;
+    width: 150px;
+    height: 25px;
+    left: 5%;
+    position: absolute;
+    background-color: burlywood;
+}
+.small2{
+    border: 1px solid pink;
+    width: 150px;
+    height: 25px;
+    left: 5%;
+    position: absolute;
+    background-color: burlywood;
+}
+.small3{
+    border: 1px solid pink;
+    width: 150px;
+    height: 25px;
+    left: 5%;
+    position: absolute;
+    background-color: burlywood;
+}
+.small4{
+    border: 1px solid pink;
+    width: 150px;
+    height: 25px;
+    left: 5%;
+    position: absolute;
+    background-color: burlywood;
+}
+.small5{
+    border: 1px solid pink;
+    width: 150px;
+    height: 25px;
+    left: 5%;
+    position: absolute;
+    background-color: burlywood;
+}
+.image{
+    width: 200px;
+    clip-path: ellipse(45% 25%);
+   position: absolute;
+   top: 45%;
+   left: 70%;
+   transform: translate(-50%,-50%);
+}
